@@ -2,6 +2,9 @@
 
 Este repositório contém scripts SQL que são utilizados para criar uma tabela, importar dados e realizar consultas específicas para analisar as despesas das operadoras de saúde. Abaixo estão as etapas detalhadas para a execução dos scripts no MySQL Workbench.
 
+Baixe os arquivos dos últimos 2 anos do repositório
+público: https://dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/
+
 Antes de executar os scripts SQL, é necessário realizar as seguintes etapas:
 
 1. **Criar um esquema (banco de dados):** Crie um esquema (banco de dados) no MySQL para armazenar a tabela e os dados. 
