@@ -38,7 +38,9 @@ Este projeto utiliza Vue.js para o frontend e FastAPI para o backend. Siga as in
      ```
 3. Instale as dependências necessárias:
    ```sh
-   pip install pandas fastapi uvicorn
+   pip install pandas 
+   pip install fastapi
+   pip install uvicorn
    ```
 4. Execute o servidor FastAPI:
    ```sh
