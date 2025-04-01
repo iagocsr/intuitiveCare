@@ -52,6 +52,3 @@ Este projeto utiliza Vue.js para o frontend e FastAPI para o backend. Siga as in
   ```sh
   npm run serve
   ```
-
-Agora a aplicação estará rodando corretamente!
-
